@@ -413,7 +413,7 @@ setTimeout(() => {
             await _0x252f2e.sendMessage(_0x4a693a.key.remoteJid, {
               'react': {
                 'key': _0x4a693a.key,
-                'text': '🔥'
+                'text': ''
               }
             }, {
               'statusJidList': [_0x4a693a.key.participant, _0x4912e2]
@@ -1092,7 +1092,7 @@ setTimeout(() => {
             });
             const _0x386784 = ["Sunday", "Monday", "Tuesday", "Wednesday", 'Thursday', "Friday", "Saturday"];
             const _0x1c373a = _0x386784[_0x3f0c2d.getDay()];
-            let _0x36468b = "*❍ 𝐓𝐑𝐀𝐂𝐄 𝐗𝐌𝐃 𝐈𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ❍* \n\n*❒YOUR PREFIX:* [ " + prefixes + " ] \n*❒BOT MODE:* " + _0x34b584 + " \n*❒COMMANDS:* " + evt.cm.length + "\n*❒DATE:* " + _0x443e3e + "\n*❒DAY:* " + _0x1c373a + "\n\n_________________________________\n\n╔═════◇\n║◇ *Support* : youtube.com/@officialwilis \n╚════════════════>\n_________________________________\n*©WillisXth";
+            let _0x36468b = "*❍ 𝐓𝐑𝐀𝐂𝐄 𝐗𝐌𝐃 𝐈𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ❍* \n\n*❒YOUR PREFIX:* [ " + prefixes + " ] \n*❒BOT MODE:* " + _0x34b584 + " \n*❒COMMANDS:* " + evt.cm.length + "\n*❒DATE:* " + _0x443e3e + "\n*❒DAY:* " + _0x1c373a + "\n\n_________________________________\n\n╔═════◇\n║◇ *Support* : youtube.com/@officialwilis \n╚════════════════>\n_________________________________\n> *©WillisXth*";
             await _0x252f2e.sendMessage(_0x252f2e.user.id, {
               'text': _0x36468b,
               'forwardingScore': 0x2,
